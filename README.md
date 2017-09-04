@@ -36,7 +36,7 @@ css to make sweeping effect
       </style>
     </head>
     <body>
-      <p> css to make sweeping effect></
+      <p> css to make sweeping effect></p>
     </body>
  </html>
 ```
